@@ -8,6 +8,7 @@ I sparked my passion for programming while in my Full Stack Web Development clas
 
 It has been such a joy contributing through these projects. I am looking forward to taking care of the company I work for and the projects we design for our community. 
 Thank you for getting to know a snippet of my heart and passion in programming. 
+
 If you're interested in making a difference and want to partner up, feel free to reach out to me. 
 
 Warmest of Regards, 
