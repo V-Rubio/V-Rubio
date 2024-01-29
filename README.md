@@ -1,4 +1,8 @@
-### Hi there 👋
+### Lovely Morning, My name is Victoria Rubio
+- I'm a service oriented developer
+- I'm currently refining my full stack projects and researching docker
+- My goal is to obtain an AWS Certification within the next year
+- I'm super excited about the newest waves of software innovation that has been demonstrated at the CES convention in Las Vegas this year
 
 <!--
 **V-Rubio/V-Rubio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
