@@ -1,5 +1,5 @@
 ### Lovely Morning, My name is Victoria Rubio 💫
-- 🫀 I'm a service oriented developer
+- ✔ I'm a service oriented developer
 - 👩🏻‍💻 I'm currently refining my full stack projects and researching docker
 - ☁️ My goal is to obtain an AWS Certification within the next year
 - 🤖 I'm super excited about the newest waves of software innovation that has been demonstrated at the CES tech convention this year
